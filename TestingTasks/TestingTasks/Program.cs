@@ -47,7 +47,7 @@ namespace _3
             MyArr Point3 = Point1 + Point2;
             Console.WriteLine("\n Point1 + Point2 = " + Point3.x + ", " + Point3.y + ", " + Point3.z);
             Console.Write("\n Point1 + Point2 = ");
-            Console.Write("\n Tania ");
+            Console.Write("\n Tania    ");
 
             Point3.Show();
 
